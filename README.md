@@ -5,6 +5,9 @@
 
 onnx文件在百度云盘，下载链接：https://pan.baidu.com/s/1Z1Phr7KPubsAqhHW5edMvQ 
 提取码：xw2i
+我的备份
+链接: https://pan.baidu.com/s/1GaGRT05usKSPaKrG7bApNw 提取码: aaur 复制这段内容后打开百度网盘手机App，操作更方便哦 
+--来自百度网盘超级会员v6的分享
 
 由于opencv不支持在图片里写汉字的，而车牌号码的开头的汉字。因此在python程序里，是调用
 pillow库加载simhei.ttf文件实现在图片里写汉字的功能。c++程序里，没有把识别的车牌号码，
